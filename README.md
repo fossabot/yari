@@ -2,6 +2,7 @@
 
 ![Testing](https://github.com/mdn/yari/workflows/Testing%20Yari/badge.svg)
 ![Prod Build](https://github.com/mdn/yari/workflows/Prod%20Build/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fyari.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fyari?ref=badge_shield)
 
 ## Quickstart
 
@@ -108,6 +109,9 @@ All source code is [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 For content, see its
 [license](https://github.com/mdn/content/blob/main/LICENSE.md) in the
 [mdn/content repository](https://github.com/mdn/content).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fyari.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fyari?ref=badge_large)
 
 ## Supported Platforms
 
